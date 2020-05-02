@@ -1,4 +1,4 @@
-
+<h1>Task</h1>
 Diabetes is a highly prevalent and expensive chronic condition, costing about $330 billion to
 Americans annually. Most of the cost is attributed to the ‘type-2’ version of diabetes, which is
 typically diagnosed in middle age.
@@ -8,6 +8,7 @@ predict which of their members are most likely to be newly-diagnosed with type-2
 Your goal is to featurize their data, train and optimize a predictive model, and explain your
 results and approach. (Note: “newly-diagnosed” means members who were ​ NOT previously
 coded ​with diabetes ​prior​ to 2016-12-31, inclusive).
+<h1>Details about the dataset</h1>
 The data provided are real patient claims records from a large insurance company,
 appropriately de-identified. The data sets have already been split into training and test sets
 (‘train.txt’ & ‘test.txt’). The proportions of members are about 70% train and 30% test.
